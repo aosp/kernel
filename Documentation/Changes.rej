@@ -1,0 +1,11 @@
+--- Documentation/Changes
++++ Documentation/Changes
+@@ -49,6 +49,8 @@
+ o  udev                   081                     # udevinfo -V
+ o  grub                   0.93                    # grub --version
+ o  mcelog		  0.6
++o  iptables               1.4.1                   # iptables -V
++
+ 
+ Kernel compilation
+ ==================
